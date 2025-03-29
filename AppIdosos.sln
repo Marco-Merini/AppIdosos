@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppIdosos", "AppIdosos\AppIdosos.csproj", "{BD06D5FB-FF4B-4213-9ED6-771DD5CDEE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD06D5FB-FF4B-4213-9ED6-771DD5CDEE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD06D5FB-FF4B-4213-9ED6-771DD5CDEE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD06D5FB-FF4B-4213-9ED6-771DD5CDEE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD06D5FB-FF4B-4213-9ED6-771DD5CDEE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03854FC1-BB19-484E-91B7-B53FC5CCAED6}
+	EndGlobalSection
+EndGlobal
